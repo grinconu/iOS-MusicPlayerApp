@@ -1,2 +1,2 @@
-# iOS-MusicPlayerApp
-iOS Music Player App
+# iOS-CloneMusicPlayerApp
+iOS Clone Music Player App
